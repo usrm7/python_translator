@@ -1,5 +1,4 @@
 # PyTrans
-
 a command line python translation tool for translating text to and from common languages
 
 ![example](pyTrans.JPG)
